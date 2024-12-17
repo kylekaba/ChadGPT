@@ -5,9 +5,10 @@ ChadGPT is an AI-powered assistant designed to support caregivers of individuals
 
 ## Project Goals
 - Support caregivers through AI-assisted communication
-- Analyze behavioral patterns from historical data
-- Provide real-time suggestions based on learned patterns
-- Create a foundation for future multi-modal capabilities
+- Analyze ad learn behavioral patterns from historical data
+- Provide real-time personalized suggestions based on learned patterns
+- Leverage the expertise of loved ones and caregivers of those diagnosed with ASD to train a personalized AI-assistant. 
+- Create a text-based foundation for future multi-modal capabilities that could incorporate vision and audio.
 
 ## Setup
 [Installation instructions]
