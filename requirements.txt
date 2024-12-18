@@ -2,6 +2,7 @@ langchain>=0.0.350
 langchain-core>=0.1.0
 langchain-cerebras>=0.1.0
 langchain-community>=0.0.3
+langchain_pinecone
 streamlit
 pinecone-client
 pypdf
