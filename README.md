@@ -1,21 +1,20 @@
 # ChadGPT: Caregiver Helper for Autism Dynamics - a Generative Personalized Trainer
 
-ChadGPT is an AI-powered assistant designed to support caregivers of individuals with autism by analyzing care documentation and providing personalized insights. Named after the creator's brother Chad, this tool aims to help families and caregivers navigate their autism care journey with both practical guidance and emotional support.
+ChadGPT is an AI-powered assistant leveraging Retrieval Augmented Generation (RAG) to support caregivers of individuals diagnosed with Autism Spectrum Disorder (ASD) by analyzing an individual's documentation (behavioral reports, medical reports, anecdotal documents) and providing personalized insights. Named after the creator's brother Chad, this tool aims to help families and caregivers navigate their autism care journey by leveraging the power of artificial intelligence.
 
 ## Features
 
-- 📊 Analysis of care documentation and behavioral patterns
-- 🤝 Personalized insights about your loved one or client
-- 💡 Real-time suggestions based on historical data
+- 📊 Analysis of documentaiton to uncover behavioral patterns
+- 🧠 Personalized insights about your loved one or client b
+- 💡 Real-time suggestions based on historical data 
 - 🎯 Task breakdown and practical guidance
-- ❤️ Emotional support alongside practical assistance
 
 ## Prerequisites
 
 Before you begin, ensure you have the following:
 
 - Python 3.8 or higher
-- Docker installed on your system
+- Docker installed on your local machine
 - API Keys for:
   - Cerebras Cloud
   - Pinecone
@@ -133,19 +132,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Named in honor of Chad Kabasares
-- Built with support from the autism care community
 - Powered by Cerebras, Pinecone, and Ollama
+- Named in honor of Chad Kabasares
 
-## Support
-
-For support, please:
-
-1. Check existing [Issues](../../issues)
-2. Create a new issue with detailed information
-3. Join our [Discussions](../../discussions)
-
-## Roadmap
+## Future Features Roadmap
 
 - [ ] Multi-modal support for audio/visual inputs
 - [ ] Enhanced pattern recognition
