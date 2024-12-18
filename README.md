@@ -1,4 +1,7 @@
-# ChadGPT: Caregiver Helper for Autism Dynamics - a Generative Personalized Trainer
+# ChadGPT: Caregiver Helper for Autism Dynamics - a Generative Personalized Teammate
+
+<img src="assets/ChadGPT_Main_Screen.jpg" width="600" alt="ChadGPT Interface">
+<img src="assets/ChadGPT_Example.jpg" width="600" alt="ChadGPT Interface">
 
 ChadGPT is an AI-powered assistant leveraging Retrieval Augmented Generation (RAG) to support caregivers of individuals diagnosed with Autism Spectrum Disorder (ASD) by analyzing an individual's documentation (behavioral reports, medical reports, anecdotal documents) and providing personalized insights. Named after the creator's brother Chad, this tool aims to help families and caregivers navigate their autism care journey by leveraging the power of artificial intelligence.
 
@@ -87,29 +90,9 @@ For optimal results when uploading care documentation:
 - Include relevant behavioral data and observations
 - Upload multiple documents for comprehensive analysis
 
-## Project Structure
-
-```
-ChadGPT/
-├── .env                  # Environment variables (create this)
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── main.py              # Main application code
-├── src/
-│   ├── __init__.py
-│   ├── prompts.py       # Prompt templates
-│   ├── processors.py    # Document processing
-│   └── utils.py         # Utility functions
-├── configs/
-│   └── app_config.py    # Application configuration
-└── tests/
-    └── __init__.py
-```
-
 ## Contributing
 
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Contributions are welcome! To contribute:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
