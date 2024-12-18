@@ -1,5 +1,7 @@
 # ChadGPT: Caregiver Helper for Autism Dynamics - a Generative Personalized Trainer
 
+<img src="assets/chadgpt-interface.png" width="600" alt="ChadGPT Interface">
+
 ChadGPT is an AI-powered assistant leveraging Retrieval Augmented Generation (RAG) to support caregivers of individuals diagnosed with Autism Spectrum Disorder (ASD) by analyzing an individual's documentation (behavioral reports, medical reports, anecdotal documents) and providing personalized insights. Named after the creator's brother Chad, this tool aims to help families and caregivers navigate their autism care journey by leveraging the power of artificial intelligence.
 
 ## Features
