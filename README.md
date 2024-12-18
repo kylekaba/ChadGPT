@@ -89,29 +89,9 @@ For optimal results when uploading care documentation:
 - Include relevant behavioral data and observations
 - Upload multiple documents for comprehensive analysis
 
-## Project Structure
-
-```
-ChadGPT/
-├── .env                  # Environment variables (create this)
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── main.py              # Main application code
-├── src/
-│   ├── __init__.py
-│   ├── prompts.py       # Prompt templates
-│   ├── processors.py    # Document processing
-│   └── utils.py         # Utility functions
-├── configs/
-│   └── app_config.py    # Application configuration
-└── tests/
-    └── __init__.py
-```
-
 ## Contributing
 
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Contributions are welcome! To contribute:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
