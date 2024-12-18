@@ -1,4 +1,4 @@
-# ChadGPT: Caregiver Helper for Autism Dynamics - a Generative Personalized Trainer
+# ChadGPT: Caregiver Helper for Autism Dynamics - a Generative Personalized Teammate
 
 <img src="assets/ChadGPT_Main_Screen.jpg" width="600" alt="ChadGPT Interface">
 
